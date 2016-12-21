@@ -4,4 +4,5 @@
   </a>
 </p>
 
-Just another .giconfig file.
+Yet another shared .gitconfig
+
